@@ -13,8 +13,8 @@ extensions:
   graph:
     steps:
       Do_Nothing:
-        x: 158
-        'y': 26
+        x: 148
+        'y': 121.39999389648438
         navigate:
           2c6cd063-093a-0839-fce5-47656cdef745:
             targetId: 79747fc5-1ffe-d730-980e-877b744d8804
