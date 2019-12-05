@@ -13,7 +13,7 @@ extensions:
   graph:
     steps:
       Do_Nothing:
-        x: 148
+        x: 146
         'y': 121.39999389648438
         navigate:
           2c6cd063-093a-0839-fce5-47656cdef745:
